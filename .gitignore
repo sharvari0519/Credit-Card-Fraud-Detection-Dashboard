@@ -1,0 +1,9 @@
+# Ignore large CSV datasets
+creditcard.csv
+creditcard - Copy.csv
+*.csv
+
+# System and OS temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
